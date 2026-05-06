@@ -1,0 +1,7 @@
+# pyrofork — поддерживаемый форк pyrogram, импортируется так же (`from pyrogram import ...`),
+# но понимает новые длинные channel ID, которые ломают официальный pyrogram 2.0.106.
+pyrofork>=2.3.50
+tgcrypto>=1.2.5
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+markdown-it-py>=3.0.0

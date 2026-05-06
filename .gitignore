@@ -1,0 +1,17 @@
+.env
+!.env.example
+telegram_session*
+telegram_config.json
+data/
+chat_exports/
+parts/
+reports/
+final_report.md
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.idea/
+.vscode/
+.claude/
